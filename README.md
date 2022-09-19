@@ -1,0 +1,2 @@
+# ado-o
+projeto individual.
